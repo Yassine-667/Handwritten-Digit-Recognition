@@ -4,12 +4,12 @@ This project aims to classify handwritten digits using machine learning algorith
 ## Installation
 To run this project, you'll need to install the following packages:
 
-scikit-learn
-matplotlib
+- scikit-learn
+- matplotlib
 
 These packages can be installed using pip:
 
-  pip install scikit-learn matplotlib
+`pip install scikit-learn matplotlib`
 
 ## Usage
 To run the project, simply run the digit_recognition_classification.py file. The output will display the accuracy of each algorithm on the test set.
