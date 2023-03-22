@@ -9,15 +9,12 @@ matplotlib
 
 These packages can be installed using pip:
 
-pip install scikit-learn matplotlib
+  pip install scikit-learn matplotlib
 
 ## Usage
 To run the project, simply run the digit_recognition_classification.py file. The output will display the accuracy of each algorithm on the test set.
 
 Note: If you encounter a ConvergenceWarning during the Logistic Regression classification, it is safe to ignore it.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 This project was completed as a part of learning machine learning algorithms. The digits dataset used in this project was provided by scikit-learn.
